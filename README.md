@@ -12,15 +12,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0414-third-maximum-number) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
