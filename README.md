@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
+| [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
