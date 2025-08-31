@@ -1,15 +1,15 @@
 class Solution {
 public:
 
-    int fibans(int n,vector<int> &dp, int k){
+    int fibans(int n,vector<int> &dp){
         
         if(n<2) return n;
-        if(dp[k]!=-1) return dp[k];
-        dp[k] = fibans(n-1,dp,k+1)+fibans(n-2,dp,k+2);
-        return dp[k];
+        if(dp[n]!=-1) return dp[n];
+        dp[n] = fibans(n-1,dp)+fibans(n-2,dp);
+        return dp[n];
     }
     int fib(int n) {
-        vector<int > dp(n,-1);
-        return fibans(n,dp,0);
+        vector<int > dp(n+1,-1);
+        return fibans(n,dp);
     }
 };
