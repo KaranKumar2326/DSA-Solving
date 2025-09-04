@@ -91,4 +91,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1917-maximum-average-pass-ratio) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
