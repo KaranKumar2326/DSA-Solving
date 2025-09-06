@@ -3,8 +3,7 @@
 
 class Solution {
 private:
-    // Helper function to calculate the sum of costs from 1 to n
-    // without using any extra storage.
+    
     long long calculate_total_cost(int n) {
         if (n <= 0) {
             return 0;
@@ -14,16 +13,15 @@ private:
         long long power_of_4 = 1;
         int cost_level = 0;
 
-        // Loop through full blocks of numbers with the same cost.
-        // e.g., numbers from 4-15 (cost 2), 16-63 (cost 3), etc.
-        while (power_of_4 * 4 <= n && power_of_4 * 4 > 0) { // check for overflow
+        
+        while (power_of_4 * 4 <= n && power_of_4 * 4 > 0) { 
             long long next_power_of_4 = power_of_4 * 4;
             cost_level++;
             total_cost += cost_level * (next_power_of_4 - power_of_4);
             power_of_4 = next_power_of_4;
         }
 
-        // Add the cost for the remaining partial block up to n.
+        
         cost_level++;
         total_cost += cost_level * (n - power_of_4 + 1);
 
