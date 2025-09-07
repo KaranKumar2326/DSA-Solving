@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0414-third-maximum-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
