@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0577-employee-bonus) |
