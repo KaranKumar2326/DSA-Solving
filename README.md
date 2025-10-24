@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0020-valid-parentheses) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 ## Stack
