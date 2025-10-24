@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0018-4sum) |
 | [0908-middle-of-the-linked-list](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0414-third-maximum-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
