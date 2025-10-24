@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1013-fibonacci-number) |
