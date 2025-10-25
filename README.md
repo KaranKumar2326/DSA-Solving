@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
