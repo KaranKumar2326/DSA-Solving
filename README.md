@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
