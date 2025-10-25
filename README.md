@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0414-third-maximum-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0046-permutations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Recursion
 |  |
