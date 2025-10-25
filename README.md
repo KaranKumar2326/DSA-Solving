@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
