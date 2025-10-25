@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0038-count-and-say) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 ## Stack
 |  |
