@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0037-sudoku-solver) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Recursion
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0038-count-and-say) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
