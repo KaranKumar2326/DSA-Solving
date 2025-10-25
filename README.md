@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0383-ransom-note) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0383-ransom-note) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 ## Stack
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0383-ransom-note) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Enumeration
