@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0258-add-digits) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Design
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0190-reverse-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
