@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2481-strictly-palindromic-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
