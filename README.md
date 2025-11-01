@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3678-design-task-manager) |
 ## Binary Search
