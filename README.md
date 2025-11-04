@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0217-contains-duplicate) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0046-permutations) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0008-string-to-integer-atoi) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
