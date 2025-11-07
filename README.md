@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,18 +185,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0210-course-schedule-ii) |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0210-course-schedule-ii) |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0210-course-schedule-ii) |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -243,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
 | ------- |
@@ -291,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
