@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2429-design-a-food-rating-system](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2429-design-a-food-rating-system) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0011-container-with-most-water) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1917-maximum-average-pass-ratio) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Simulation
 |  |
 | ------- |
@@ -284,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
