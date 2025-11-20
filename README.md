@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0414-third-maximum-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0759-set-intersection-size-at-least-two) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0414-third-maximum-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0759-set-intersection-size-at-least-two) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/KaranKumar2326/DSA-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Memoization
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0011-container-with-most-water) |
+| [0759-set-intersection-size-at-least-two](https://github.com/KaranKumar2326/DSA-Solving/tree/master/0759-set-intersection-size-at-least-two) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/KaranKumar2326/DSA-Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/KaranKumar2326/DSA-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
